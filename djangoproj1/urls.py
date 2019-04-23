@@ -19,5 +19,5 @@ from welcomeapp import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('lokeshit',views.welcome),
+    path('gangadhar',views.welcome),
 ]
